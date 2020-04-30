@@ -1,0 +1,10 @@
+name: InstaAchievments
+main: at.instaachiev.main.Main
+description: InstaCube AchievmentSystem
+author: roboalex2
+version: ${project.version}
+api-version: 1.15
+depend: [InstaBaseAPI]
+commands:
+  achievments:
+    description: TODO
